@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # 🧠 Brain Tumor Classification using Deep Learning
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -145,7 +142,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ```
 
----
-
-Let me know if you'd like a similarly styled `index.md` for GitHub Pages or a `LICENSE` file too!
-```
